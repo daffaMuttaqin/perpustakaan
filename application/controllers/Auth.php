@@ -2,7 +2,13 @@
 
     class Auth extends CI_Controller {
         public function index(){
-            $this->load->view('auth/login');        
+
+            $data['judul'] = 'Halaman Login';
+            $this->load->view('auth/auth_navbar', $data);
+            $this->load->view('auth/login', $data);
+            $this->load->view('auth/auth_footer', $data);
+
+
         }
 
     }
