@@ -110,7 +110,7 @@
 
       </div>
 
-      <div class="col-10 my-auto text-white">
+      <div class="col-10 ps-md-5 ps-sm-1 my-auto text-white">
         <h2><?php echo $judul; ?></h2>
       </div>
     </div>
