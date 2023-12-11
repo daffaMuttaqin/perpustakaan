@@ -104,3 +104,14 @@
         </div>
       </div>
     </div>
+
+    <div class="col-12 d-flex" style="height: 94px; background-color: #6477db">
+      <div class="col-2">
+
+      </div>
+
+      <div class="col-10 my-auto text-white">
+        <h2><?php echo $judul; ?></h2>
+      </div>
+    </div>
+

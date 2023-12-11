@@ -1,3 +1,7 @@
+</div>
+<!-- End Sidebar -->
+
+
 <!-- MDB -->
 <script
       type="text/javascript"

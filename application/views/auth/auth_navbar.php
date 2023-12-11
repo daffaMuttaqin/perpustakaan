@@ -55,7 +55,7 @@
           </div>
 
           <!-- Perpustakaan SMK N1 Bumi Ratu Nuban -->
-          <h6 class="text-white my-auto fs-5 d-none d-sm-block">
+          <h6 class="text-white my-auto fs-5 fs-sm-3 d-none d-sm-block">
             Perpustakaan SMK N1 Bumi Ratu Nuban
           </h6>
 
@@ -65,37 +65,7 @@
         <div class="d-flex flex-nowrap align-items-center">
 
           <!-- Notifications -->
-          <div class="px-2 px-sm-1">
-            <!-- Modal -->
-            <div type="button" class="" style="background-color: #6477db" data-bs-toggle="modal" data-bs-target="#notificationModal">
-              <div class="">
-                <img
-                  src="https://media.discordapp.net/attachments/1182687255895232554/1182700580322426970/Notification.png?ex=6585a6bf&is=657331bf&hm=de80590cd84dd92d21ccdcc4517e8ed9e4e23a931a7c416aa94294c726701b99&=&format=webp&quality=lossless"
-                  height="32"
-                  width="30"
-                  alt="Library Logo"
-                  loading="lazy"
-                  class="img-fluid"
-                />
-              </div>
-            </div>
-          </div>
           
-          <!-- Avatar -->
-          <div class="px-lg-2 px-sm-1">
-            <!-- Modal -->
-            <div type="button" class="" style="background-color: #6477db" data-bs-toggle="modal" data-bs-target="#avatarModal">
-              <div class="">
-                <img
-                  src="https://media.discordapp.net/attachments/1182687255895232554/1182688623473197170/2089068507.png?ex=65859b9d&is=6573269d&hm=b9edb411642e60a2a1550f415405409153ac0e01cf9e4441c68d3cb03727f3a1&=&format=webp&quality=lossless"
-                  height="50"
-                  width="50"
-                  alt="Library Logo"
-                  loading="lazy"
-                />
-              </div>
-            </div>
-          </div>
         </div>
         <!-- Right elements -->
       </div>
