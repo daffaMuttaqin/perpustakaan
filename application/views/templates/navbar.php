@@ -30,8 +30,9 @@
 
           <!-- Notifications -->
           <div class="px-2 px-sm-1">
-            <!-- Modal -->
-            <div type="button" class="" style="background-color: #6477db" data-bs-toggle="modal" data-bs-target="#notificationModal">
+            <!-- Button Modal -->
+            <div type="button" class="mx-lg-2 mx-sm-1" style="background-color: #6477db" data-bs-toggle="modal" data-bs-target="#notificationModal">
+            <!-- End Button Modal -->
               <div class="">
                 <img
                   src="https://media.discordapp.net/attachments/1182687255895232554/1182700580322426970/Notification.png?ex=6585a6bf&is=657331bf&hm=de80590cd84dd92d21ccdcc4517e8ed9e4e23a931a7c416aa94294c726701b99&=&format=webp&quality=lossless"
@@ -46,7 +47,7 @@
           </div>
           
           <!-- Avatar -->
-          <div class="px-lg-2 px-sm-1">
+          <div class="mx-lg-2 mx-sm-1">
             <!-- Modal -->
             <div type="button" class="" style="background-color: #6477db" data-bs-toggle="modal" data-bs-target="#avatarModal">
               <div class="">
