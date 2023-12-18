@@ -55,8 +55,9 @@
                   src="https://media.discordapp.net/attachments/1182687255895232554/1182688623473197170/2089068507.png?ex=65859b9d&is=6573269d&hm=b9edb411642e60a2a1550f415405409153ac0e01cf9e4441c68d3cb03727f3a1&=&format=webp&quality=lossless"
                   height="50"
                   width="50"
-                  alt="Library Logo"
+                  alt="Avatar Logo"
                   loading="lazy"
+                  class="rounded-circle"
                 />
               </div>
             </div>
