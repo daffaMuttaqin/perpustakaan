@@ -1,4 +1,4 @@
-<body style="font-family: 'Rubik', sans-serif;">    
+<body style="font-family: 'Rubik', sans-serif; background-color: #f3f3f3; ">    
     
     <!-- Navbar -->
     <nav class="navbar navbar-expand-lg navbar-light shadow-lg" style="background-color: #6477db">

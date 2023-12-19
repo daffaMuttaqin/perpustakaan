@@ -1,8 +1,14 @@
 <!-- SIDEBAR -->
 <div class="d-flex h-100">
 
-      <div class="col-2 h-100">
-        <div class="position-fixed h-100 col-md-2 col-sm-12 bg-white rounded-5 shadow" style="top: 90px; left: 10px;">
+      <!-- <div class="position-fixed" style="left: 250px; top: 70px;">
+        <a href="" class="text-white nav-link" >
+          Sidebar
+        </a>
+      </div> -->
+
+      <div class="col-2">
+        <div class="position-fixed col-md-2 col-sm-12 bg-white rounded-5 shadow" style="top: 90px; left: 10px; height: 85%;">
           
         <!-- Bungkusan Avatar dan Menu -->
           <div class="d-flex flex-column">
@@ -25,34 +31,35 @@
                 <!-- Badge Administrator -->
                 <span class="badge rounded-pill" style="background-color: #6FCF9733; color: #6FCF97;">
                   Administrator
-                </sp>
+                </span>
             </div>
             <!-- End Avatar -->
 
             <!-- MENU -->
-            <div class="col mx-auto">
+            <div class="col px-2">
               <div class="d-flex flex-column">
 
               <!-- Bungkusan Per Menu -->
-                <div class="d-flex flex-wrap h-100 fs-5">
-                  <div class="fas fa-book my-auto"></div>
-                  <div class="ms-2">Data Buku</div>
-                </div>
 
-                <div class="d-flex flex-wrap h-100 fs-5">
-                  <div class="fas fa-address-book my-auto"></div>
+                <a href="#" class="d-flex flex-wrap h-100 fs-5 text-dark px-4 py-1 rounded-pill" style="background-color: #E3E9FFBF;">
+                  <div class="fas fa-book my-auto fs-4"></div>
+                  <div class="ms-2 fw-semibold" style="color: #6477DB">Data Buku</div>
+                </a>
+
+                <a href="#" class="d-flex flex-wrap h-100 fs-5 text-dark px-4 py-1 rounded-pill">
+                  <div class="fas fa-address-book my-auto fs-4"></div>
                   <div class="ms-2">Data Anggota</div>
-                </div>
+                </a>
 
-                <div class="d-flex flex-wrap h-100 fs-5">
-                  <div class="fas fa-book my-auto"></div>
+                <a href="#" class="d-flex flex-wrap h-100 fs-5 text-dark px-4 py-1 rounded-pill">
+                  <div class="fas fa-book my-auto fs-4"></div>
                   <div class="ms-2">Transaksi</div>
-                </div>
+                </a>
 
-                <div class="d-flex flex-wrap h-100 fs-5">
-                  <div class="fas fa-book my-auto"></div>
+                <a href="#" class="d-flex flex-wrap h-100 fs-5 text-dark px-4 py-1 rounded-pill">
+                  <div class="fas fa-book my-auto fs-4"></div>
                   <div class="ms-2">Laporan</div>
-                </div>
+                </a>
               <!-- End Bungkusan Per Menu -->
               </div>
             </div>
