@@ -1,4 +1,4 @@
-<body style="font-family: 'Rubik', sans-serif; background-color: #f3f3f3; ">    
+<body class="">    
     
     <!-- Navbar -->
     <nav class="navbar navbar-expand-lg navbar-light shadow-lg" style="background-color: #6477db">
@@ -107,12 +107,14 @@
       </div>
     </div>
 
+    <!-- Warna BG Biru Dibawah Navbar -->
     <div class="col-12 d-flex" style="height: 94px; background-color: #6477db">
       <div class="col-2">
 
       </div>
 
-      <div class="col-10 ps-md-5 ps-sm-1 my-auto text-white">
+      <!-- JUDUL HALAMAN DIBAWAH NAVBAR -->
+      <div class="col-10 ps-md-5 ps-0 my-auto text-white">
         <h2><?php echo $judul; ?></h2>
       </div>
     </div>
